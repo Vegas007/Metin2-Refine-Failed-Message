@@ -1,4 +1,4 @@
-# Metin2 Refine Failed Message [Official Update]
+# Metin2 Refine Failed Message [GF-Like]
 
 ![enter image description here](http://i.epvpimg.com/t4gGdab.png)
 ![enter image description here](http://i.epvpimg.com/0NjCaab.png)
