@@ -15,7 +15,7 @@ enum ERefineFailType
 	PyModule_AddIntConstant(poModule, "ENERGY",		POINT_ENERGY);
 	PyModule_AddIntConstant(poModule, "ENERGY_END_TIME",		POINT_ENERGY_END_TIME);
 //2.2) Add after:
-#ifdef #ifdef ENABLE_REFINE_MSG_ADD
+#ifdef ENABLE_REFINE_MSG_ADD
 	PyModule_AddIntConstant(poModule, "REFINE_FAIL_GRADE_DOWN",		REFINE_FAIL_GRADE_DOWN);
 	PyModule_AddIntConstant(poModule, "REFINE_FAIL_DEL_ITEM",		REFINE_FAIL_DEL_ITEM);
 	PyModule_AddIntConstant(poModule, "REFINE_FAIL_KEEP_GRADE",		REFINE_FAIL_KEEP_GRADE);
